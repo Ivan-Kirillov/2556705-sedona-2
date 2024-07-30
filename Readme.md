@@ -1,9 +1,9 @@
 # Личный проект «Седона»
 
-* Студент: [Ваня Кириллов](https://up.htmlacademy.ru/htmlcss-individual/2/user/2556705).
-* Наставник: []().
+* Студент: [Иван Кириллов](https://up.htmlacademy.ru/htmlcss-individual/2/user/2556705).
+* Наставник: [Александр Румянцев](https://htmlacademy.ru/profile/id1521451).
 * Сайт [Мой проект Sedona](https://ivan-kirillov.github.io/2556705-sedona-2/)
-<img src="img/Скриншот.png" alt="Скриншот экрана">
+
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
