@@ -1,0 +1,11 @@
+.icon-number-hearts
+{
+  width: 20px;
+  height: 20px;
+  background-color: rgb(25, 192, 25) ;
+  border-radius: 50%;
+  text-align: center;
+  display: inline-block;
+  padding: 5px 5px 4px;
+  }
+
